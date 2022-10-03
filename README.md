@@ -1,2 +1,3 @@
-# Patnashky
-c++.... again
+# Game in Life
+c++.... again....
+Почти копипаста с интернета
